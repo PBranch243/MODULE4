@@ -1,0 +1,17 @@
+.btn {
+    color: rgb(12, 131, 201);
+}
+
+.mult {
+    border: black 2px;
+    display: block;
+    background-color: rgb(209, 8, 8);
+    align-items: center;
+    padding: 5px;
+}
+
+.question {
+    display: block;
+    align-items: center;
+    padding: 5px;
+}
